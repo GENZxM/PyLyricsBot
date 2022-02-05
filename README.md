@@ -25,7 +25,7 @@
 # Star 🌟 Fork 🍴 & Deploy
 
 ### -Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AmineSoukara/PyLyricsBot/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GENZxM/PyLyricsBot/tree/main)
 
 ### -Self-hosting (For Devs)
 
@@ -58,3 +58,7 @@ python3 main.py
 [@AmineSoukara](https://github.com/AmineSoukara) 
 [@Dan](https://github.com/pyrogram/pyrogram)
 [@JohnWMillr](https://github.com/johnwmillr/LyricsGenius)
+
+#>>> TELEGRAM OWNER <<<
+
+[XFlick](https://t.me/XFlick)
