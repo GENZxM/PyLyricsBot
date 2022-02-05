@@ -22,8 +22,8 @@ STARTPIC = "https://i.imgur.com/gv2SzKr.jpg"
 START_BTN = ikb(
     [
         [
-            ("💬 Updates Channel", "t.me/damiensoukara", "url"),
-            ("🗣 Support Group", "t.me/damienhelp", "url"),
+            ("💬 Updates Channel", "https://t.me/animeXflickz", "url"),
+            ("🗣 Support Group", "https://t.me/+hpCwlBcPJtI1ZDU9", "url"),
         ],
         [
             ("👾 About", "about"),
@@ -33,10 +33,10 @@ START_BTN = ikb(
         [
             (
                 "🔗 Source Code",
-                "https://github.com/AmineSoukara/PyLyricsBot/fork",
+                "https://github.com/GENZxM/PyLyricsBot/fork",
                 "url",
             ),
-            ("👨‍💻 Developer", "https://bio.link/aminesoukara", "url"),
+            ("👨‍💻 Developer", "https://t.me/XFlick", "url"),
         ],
     ]
 )
