@@ -59,6 +59,6 @@ python3 main.py
 [@Dan](https://github.com/pyrogram/pyrogram)
 [@JohnWMillr](https://github.com/johnwmillr/LyricsGenius)
 
-#>>> TELEGRAM OWNER <<<
+>>> TELEGRAM OWNER <<<
 
 [XFlick](https://t.me/XFlick)
