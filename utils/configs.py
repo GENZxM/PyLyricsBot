@@ -31,12 +31,12 @@ class Var(object):
 class Tr(object):
 
     START_TEXT = """
-👋 Hi ! {} Welcome To @PyLyricsBot !
+👋 Hi ! {} Welcome To @PyLyricsXflickbot !
 
-PyLyrics Is An [Open-Source](https://github.com/AmineSoukara/PyLyricsBot/fork) Bot That Can Help You Get Song Lyrics
+PyLyricsXflickbot Is An [Open-Source](https://github.com/GENZxM/PyLyricsBot/fork) Bot That Can Help You Get Song Lyrics
 """
 
-    ABOUT_TEXT = """🤖 **My Name:** [Py Lyrics](t.me/PyLyricsBot)
+    ABOUT_TEXT = """🤖 **My Name:** [Py Lyrics by XFlick](t.me/PyLyricsXflickbot)
 
 📝 **Language:** [Python 3](https://www.python.org)
 
@@ -44,13 +44,13 @@ PyLyrics Is An [Open-Source](https://github.com/AmineSoukara/PyLyricsBot/fork) B
 
 📡 **Hosted On:** [Heroku](heroku.com)
 
-👨‍💻 **Developer:** [Amine Soukara](t.me/AmineSoukara)
+👨‍💻 **Developer:** [XFlickbot](t.me/XFlick)
 
-💡 **Source Code:** [Github](https://github.com/AmineSoukara/PyLyricsBot/fork)
+💡 **Source Code:** [Github](https://github.com/GENZxM/PyLyricsBot/fork)
 
-👥 **Support Group:** [Damien Help](https://t.me/DamienHelp)
+👥 **Support Group:** [XFlick Support](https://t.me/+hpCwlBcPJtI1ZDU9)
 
-📢 **Updates Channel:** [Damien Soukara](https://t.me/DamienSoukara)
+📢 **Updates Channel:** [AnimeXflickz](https://t.me/animeXflickz)
 
 
 ❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
