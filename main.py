@@ -17,7 +17,7 @@ Ly = Client(
 
 genius = Genius(Var.API)
 
-STARTPIC = "https://i.imgur.com/gv2SzKr.jpg"
+STARTPIC = "https://telegra.ph/file/33a9326d2841c11d3c140.jpg"
 
 START_BTN = ikb(
     [
